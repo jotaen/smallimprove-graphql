@@ -1,0 +1,12 @@
+{
+	"users": [
+		{ "id": 1, "name": "Olga from HR", "email": "olga@example.org" },
+		{ "id": 2, "name": "Michi the Developer", "email": "michi@example.org" },
+		{ "id": 3, "name": "Andy from CS", "email": "andy@example.org" }
+	],
+	"praise": [
+		{ "id": 1, "fromUserId": 1, "aboutUserId": 2, "message": "Michi is fantastic!" },
+		{ "id": 2, "fromUserId": 2, "aboutUserId": 1, "message": "Olga, you are my hero!" },
+		{ "id": 3, "fromUserId": 3, "aboutUserId": 2, "message": "What would my life be without Michi?" }
+	]
+}
